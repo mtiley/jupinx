@@ -70,3 +70,6 @@ You can also open an Ubuntu-side VSCode window through the menus.
 >## Note
 >
 >A good rule of thumb is that wherever possible you should do things in Ubuntu, not Windows, to avoid compatibility problems. **If working with git, for instance, use it through the Ubuntu terminal** (not with a separate Windows installation of git).
+
+## See Also
+* [These instructions](https://github.com/QuantEcon/lecture-source-jl#usage) for editing the QuantEcon lectures using Jupinx on a Windows system
